@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TheBlindAssist</string>
+    <string name="capture_button_text">CAPTURE</string>
+    <string name="setLanguage_btn1">Start Detection</string>
+    <string name="setLanguage_btn2">History</string>
+</resources>
